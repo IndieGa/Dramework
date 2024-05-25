@@ -1,0 +1,23 @@
+{
+    "name": "IG.HappyCoder.Dramework3",
+    "rootNamespace": "",
+    "references": [
+        "Unity.IL2CPP",
+        "Unity.Burst",
+        "Unity.Addressables.Editor",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "Unity.TextMeshPro",
+        "MemoryPack",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
