@@ -10,6 +10,6 @@ Odin Inspector https://odininspector.com/ is required for work. It is under deve
 
 ## Usage
 ### Basics
-Video - https://www.youtube.com/watch?v=G2mvCSnB_1I
+Video - https://www.youtube.com/watch?v=RgC7NWDWjas
 
 Demo Project - git@github.com:IndieGa/dramework_demo_project.git
